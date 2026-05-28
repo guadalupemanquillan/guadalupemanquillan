@@ -1,16 +1,24 @@
-# 👋 Hola, soy Rocio Guadalupe Manquillan
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guadalupemanquillan/guadalupemanquillan/main/banner.png" />
+</p>
 
-### 💻 Full Stack Developer | React • Node.js • WordPress • APIs REST
+<h1 align="center">👋 Hola, soy Rocio Guadalupe Manquillan</h1>
 
-> “The only impossible journey is the one you never begin.” – Tony Robbins
+<h3 align="center">
+💻 Full Stack Developer | React • Node.js • WordPress • APIs REST
+</h3>
+
+<p align="center">
+  <i>“The only impossible journey is the one you never begin.” – Tony Robbins</i>
+</p>
+
+---
+
+## 🚀 Sobre mí
 
 Desarrolladora Full Stack de Argentina 🇦🇷 enfocada en construir aplicaciones web modernas, APIs REST, soluciones WordPress y sistemas orientados a resolver problemas reales.
 
 Actualmente continúo fortaleciendo mis habilidades en desarrollo web, backend, automatización, arquitectura de aplicaciones e integración de APIs.
-
----
-
-# 🚀 Sobre mí
 
 - 🌎 Disponible para oportunidades remotas LATAM
 - 💻 Desarrollo aplicaciones Full Stack modernas
@@ -75,6 +83,7 @@ Actualmente continúo fortaleciendo mis habilidades en desarrollo web, backend, 
 - Automatización
 - Gestión de datos
 - Integración de APIs
+- SQL & Data Analytics
 
 ---
 
@@ -93,14 +102,14 @@ Plataforma Full Stack desarrollada para gestionar portfolio, autenticación, pan
 - REST APIs
 - WordPress
 
-🔗 Website:
-https://www.guadadev.com
+🔗 Website: https://www.guadadev.com
 
 ---
 
 ## ⚠️ Incident Management System
 
 Sistema de gestión de incidentes con funcionalidades de:
+
 - seguimiento de incidentes
 - análisis de causa raíz
 - gestión de resoluciones
@@ -119,6 +128,7 @@ Sistema de gestión de incidentes con funcionalidades de:
 ## 🔐 Authentication & Admin Systems
 
 Desarrollo de aplicaciones con:
+
 - login
 - autenticación
 - rutas protegidas
@@ -137,6 +147,7 @@ Desarrollo de aplicaciones con:
 ## 🔌 REST APIs
 
 Creación de APIs escalables utilizando:
+
 - Node.js
 - Express
 - bases de datos SQL
@@ -151,7 +162,20 @@ Creación de APIs escalables utilizando:
 - Automatización e IA
 - Buenas prácticas backend
 - Optimización de rendimiento
+- SQL avanzado y Data Analytics
 - Mejores prácticas en desarrollo web moderno
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guadalupemanquillan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guadalupemanquillan&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -174,6 +198,7 @@ Creación de APIs escalables utilizando:
 - 💼 LinkedIn: www.linkedin.com/in/manquillanrocio
 - 🌐 Portfolio: https://www.guadadev.com
 - 📧 Email: trabajoguada236@gmail.com
+- 💬 WhatsApp: https://wa.me/542805072908
 
 ---
 
