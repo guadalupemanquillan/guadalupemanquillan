@@ -1,60 +1,182 @@
 # 👋 Hola, soy Rocio Guadalupe Manquillan
 
-### 💻 Full Stack Developer | React • Node.js • APIs REST
+### 💻 Full Stack Developer | React • Node.js • WordPress • APIs REST
 
-Desarrolladora Full Stack de Argentina 🇦🇷 enfocada en construir aplicaciones web modernas, escalables y orientadas a resolver problemas reales.
+> “The only impossible journey is the one you never begin.” – Tony Robbins
 
-Actualmente continúo fortaleciendo mis habilidades en desarrollo web, backend, automatización e integración de APIs.
+Desarrolladora Full Stack de Argentina 🇦🇷 enfocada en construir aplicaciones web modernas, APIs REST, soluciones WordPress y sistemas orientados a resolver problemas reales.
+
+Actualmente continúo fortaleciendo mis habilidades en desarrollo web, backend, automatización, arquitectura de aplicaciones e integración de APIs.
 
 ---
 
 # 🚀 Sobre mí
 
 - 🌎 Disponible para oportunidades remotas LATAM
-- 💡 Apasionada por la tecnología y el aprendizaje continuo
-- 🤖 Interesada en IA, automatización y desarrollo moderno
-- 🛠 Construyendo proyectos Full Stack reales
+- 💻 Desarrollo aplicaciones Full Stack modernas
+- ⚙️ Construyo APIs REST y sistemas backend
+- 🎨 Me interesa crear interfaces limpias y funcionales
+- 🤖 Interesada en IA, automatización y herramientas digitales
 - 📚 Aprendiendo constantemente nuevas tecnologías
+- 🚀 Buscando seguir creciendo profesionalmente en el mundo IT
 
 ---
 
 # 🧰 Tecnologías
 
-## Frontend
+## 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,wordpress" />
 </p>
 
-## Backend
+- React
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- Tailwind
+- WordPress
+
+---
+
+## ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite" />
 </p>
 
-## Herramientas
+- Node.js
+- Express
+- SQLite
+- MySQL
+- REST APIs
+
+---
+
+## 🛠 Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vscode,figma" />
 </p>
+
+- Git & GitHub
+- Postman
+- Render
+- Vercel
+- VS Code
+- Figma
+
+---
+
+## 📈 Otras herramientas
+
+- Excel
+- Automatización
+- Gestión de datos
+- Integración de APIs
 
 ---
 
 # 📌 Proyectos Destacados
 
-## 🔹 Portfolio Platform
-Plataforma Full Stack con autenticación, panel administrador e integración de API.
+## 🌐 GuadaDev Portfolio Platform
 
-## 🔹 Incident Management System
-Sistema de gestión de incidentes con análisis de causa raíz y resoluciones.
+Plataforma Full Stack desarrollada para gestionar portfolio, autenticación, panel administrador e integración de APIs.
 
-## 🔹 APIs REST Full Stack
-Desarrollo de APIs con autenticación, base de datos y arquitectura escalable.
+### Tecnologías:
+- React
+- TypeScript
+- Node.js
+- Express
+- SQLite
+- REST APIs
+- WordPress
+
+🔗 Website:
+https://www.guadadev.com
 
 ---
 
-# 📫 Contacto
+## ⚠️ Incident Management System
+
+Sistema de gestión de incidentes con funcionalidades de:
+- seguimiento de incidentes
+- análisis de causa raíz
+- gestión de resoluciones
+- relaciones SQL
+- administración de datos
+
+### Tecnologías:
+- React
+- Node.js
+- Express
+- SQLite
+- REST APIs
+
+---
+
+## 🔐 Authentication & Admin Systems
+
+Desarrollo de aplicaciones con:
+- login
+- autenticación
+- rutas protegidas
+- dashboards administrativos
+- gestión de usuarios
+
+### Tecnologías:
+- React
+- Node.js
+- Express
+- JWT
+- SQLite
+
+---
+
+## 🔌 REST APIs
+
+Creación de APIs escalables utilizando:
+- Node.js
+- Express
+- bases de datos SQL
+- autenticación
+- arquitectura backend modular
+
+---
+
+# 📊 Actualmente aprendiendo
+
+- Arquitectura Full Stack escalable
+- Automatización e IA
+- Buenas prácticas backend
+- Optimización de rendimiento
+- Mejores prácticas en desarrollo web moderno
+
+---
+
+# 🌐 Contacto
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/manquillanrocio">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://www.guadadev.com">
+    <img src="https://skillicons.dev/icons?i=webflow" />
+  </a>
+
+  <a href="mailto:trabajoguada236@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 - 💼 LinkedIn: www.linkedin.com/in/manquillanrocio
 - 🌐 Portfolio: https://www.guadadev.com
 - 📧 Email: trabajoguada236@gmail.com
+
+---
+
+# ✨ Objetivo Profesional
+
+Seguir creciendo como desarrolladora Full Stack participando en proyectos reales, colaborativos y desafiantes, aportando soluciones tecnológicas modernas y continuando mi formación dentro del ecosistema IT.
