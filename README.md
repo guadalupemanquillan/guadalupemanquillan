@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/guadalupemanquillan/guadalupemanquillan/main/banner.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/guadalupemanquillan/guadalupemanquillan/main/banner.png (2).png" width="100%"/>
 
 <br>
 
