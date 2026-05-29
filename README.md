@@ -233,3 +233,11 @@ WordPress • PHP • HTML • CSS • JavaScript
 **Full Stack Engineer • Software Developer**
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/guadalupemanquillan/guadalupemanquillan/main/kling_20260529_VIDEO_Image1_Cre_3425_0-ezgif.com-video-to-gif-converter.gif" width="85%"/>
+
+</div>
