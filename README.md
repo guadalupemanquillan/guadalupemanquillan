@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/guadalupemanquillan/guadalupemanquillan/main/banner.png (2).png" width="100%"/>
+<img src="https://raw.githubusercontent.com/guadalupemanquillan/guadalupemanquillan/main/banner.png%20(2).png" width="100%"/>
 
 <br>
 
@@ -14,29 +14,29 @@
 
 ### Full Stack Engineer | Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Angular+%7C+React+%7C+Node.js;PHP+%7C+Laravel+%7C+Java;Building+Business+Solutions;Software+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Angular+%7C+React+%7C+Node.js;PHP+%7C+Laravel+%7C+Java;CRM+%26+Business+Systems;Remote+LATAM" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/manquillanrocio">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Conectar-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⬤%20LinkedIn-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
 </a>
 
 <a href="https://www.guadadev.com">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Ver_Sitio-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⬤%20Portfolio-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
 </a>
 
 <a href="mailto:trabajoguada236@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Contactar-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⬤%20Email-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
 </a>
 
 <a href="https://wa.me/542805072908">
-<img src="https://img.shields.io/badge/💬_WhatsApp-Hablemos-25D366?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⬤%20WhatsApp-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=guadalupemanquillan&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=guadalupemanquillan&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
 
 </div>
 
@@ -207,19 +207,19 @@ WordPress • PHP • HTML • CSS • JavaScript
 <div align="center">
 
 <a href="https://www.linkedin.com/in/manquillanrocio">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/⬤%20LinkedIn-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
 </a>
 
 <a href="https://www.guadadev.com">
-<img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⬤%20Portfolio-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
 </a>
 
 <a href="mailto:trabajoguada236@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/⬤%20Email-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
 </a>
 
 <a href="https://wa.me/542805072908">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/⬤%20WhatsApp-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
 </a>
 
 </div>
