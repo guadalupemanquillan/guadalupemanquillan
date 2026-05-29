@@ -118,7 +118,8 @@ Actualmente profundizando y experimentando en:
     <tr>
       <td>
         <!-- Streak de contribuciones seguidas -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE" alt="GitHub Streak" width="380px">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=guadalupemanquillan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE" alt="GitHub Streak" width="380px">
+    
       </td>
       <td>
         <!-- Resumen de actividad de la cuenta -->
