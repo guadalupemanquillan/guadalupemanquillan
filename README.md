@@ -74,7 +74,7 @@ Mi enfoque está en construir software escalable, mantenible y alineado con buen
 
 Participación en el desarrollo y mantenimiento del CRM corporativo utilizado diariamente por equipos internos para la gestión de clientes, procesos operativos y seguimiento de casos.
 
-Responsabilidades:
+#### Responsabilidades
 
 * Desarrollo de nuevas funcionalidades
 * Mantenimiento evolutivo del sistema
@@ -83,7 +83,7 @@ Responsabilidades:
 * Corrección de incidencias
 * Soporte técnico sobre módulos existentes
 
-**Tecnologías**
+#### Tecnologías
 
 Angular • JavaScript • APIs REST • SQL
 
@@ -99,7 +99,7 @@ Angular • JavaScript • APIs REST • SQL
 
 Portfolio Full Stack desarrollado con arquitectura moderna y panel administrativo propio.
 
-Incluye:
+#### Funcionalidades
 
 * Gestión de proyectos
 * Gestión de habilidades
@@ -108,7 +108,7 @@ Incluye:
 * Formulario de contacto
 * Autenticación
 
-**Tecnologías**
+#### Tecnologías
 
 React • Vite • Spring Boot • MongoDB
 
@@ -116,26 +116,38 @@ React • Vite • Spring Boot • MongoDB
 
 ---
 
-### 🏘️ OpsCore
+### ⚠️ OpsCore — Incident Management System
 
-Sistema integral de gestión desarrollado colaborativamente para la administración de countries y barrios privados.
+Sistema de gestión de incidentes diseñado para digitalizar la operación de plantas industriales y mejorar la trazabilidad de eventos críticos.
 
-**Recursos del proyecto**
+La solución permite registrar fallas, accidentes y desvíos de calidad desde dispositivos móviles, asignar responsables, monitorear el estado de resolución y analizar causas raíz para reducir la recurrencia de incidentes.
+
+#### Funcionalidades principales
+
+* Registro de incidentes desde dispositivos móviles
+* Asignación y seguimiento de responsables
+* Dashboard de monitoreo en tiempo real
+* Gestión de estados (Abierto, En Proceso, Cerrado)
+* Métricas de tiempo de respuesta y resolución
+* Análisis de causas raíz
+* Clasificación por tipo de incidente y área
+
+#### Impacto
+
+Mejora de la eficiencia operativa mediante la digitalización de procesos, reducción de tiempos de respuesta y generación de información para la toma de decisiones.
+
+#### Recursos
 
 📂 Repositorio
-
 https://github.com/No-Country-simulation/S04-26-Equipo-10-Web-App-Development
 
 📋 Trello
-
 https://trello.com/b/YQ8WFXF9/opscore
 
 🧩 Diagrama de Flujo
-
 https://miro.com/app/board/uXjVHcd-HMM=/
 
 📚 Documentación
-
 https://drive.google.com/drive/folders/1IraqJzhFN0AKqWFxUqHAQvU5h_iMttRb
 
 ---
@@ -144,7 +156,7 @@ https://drive.google.com/drive/folders/1IraqJzhFN0AKqWFxUqHAQvU5h_iMttRb
 
 Portal web orientado a gestión de contenido, automatización y administración de información.
 
-**Tecnologías**
+#### Tecnologías
 
 Laravel • PHP • MySQL
 
@@ -156,7 +168,7 @@ Laravel • PHP • MySQL
 
 Sitio corporativo desarrollado sobre WordPress con personalización de componentes y optimización de contenido.
 
-**Tecnologías**
+#### Tecnologías
 
 WordPress • PHP • HTML • CSS • JavaScript
 
