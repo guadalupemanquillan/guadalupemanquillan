@@ -18,25 +18,23 @@
 
 <br>
 
+<!-- Botones minimalistas y uniformes -->
+
 <a href="https://www.linkedin.com/in/manquillanrocio">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/PROFESSIONAL_PROFILE-0D1117?style=for-the-badge"/>
 </a>
 
 <a href="https://www.guadadev.com">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge"/>
 </a>
 
 <a href="mailto:trabajoguada236@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge"/>
 </a>
 
 <a href="https://wa.me/542805072908">
-<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/WHATSAPP-0D1117?style=for-the-badge"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=guadalupemanquillan&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
 
 </div>
 
@@ -44,7 +42,7 @@
 
 # 🚀 Sobre mí
 
-Soy Full Stack Engineer con más de 2 años de experiencia participando en el desarrollo de aplicaciones web, sistemas empresariales, CRM corporativos, automatizaciones y plataformas orientadas a negocio.
+Soy Full Stack Engineer con más de 2 años de experiencia desarrollando aplicaciones web, sistemas empresariales, CRM corporativos, automatizaciones y plataformas orientadas a negocio.
 
 He trabajado en proyectos utilizando Angular, React, Node.js, PHP, Laravel, Java, Spring Boot y tecnologías backend modernas, colaborando tanto en productos internos como en soluciones para clientes reales.
 
@@ -119,8 +117,6 @@ React • Vite • Spring Boot • MongoDB
 ### ⚠️ OpsCore — Incident Management System
 
 Sistema de gestión de incidentes diseñado para digitalizar la operación de plantas industriales y mejorar la trazabilidad de eventos críticos.
-
-La solución permite registrar fallas, accidentes y desvíos de calidad desde dispositivos móviles, asignar responsables, monitorear el estado de resolución y analizar causas raíz para reducir la recurrencia de incidentes.
 
 #### Funcionalidades principales
 
