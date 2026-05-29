@@ -44,11 +44,11 @@
 
 # 🚀 Sobre mí
 
-Soy Full Stack Engineer con más de 2 años de experiencia desarrollando aplicaciones web, APIs y soluciones digitales orientadas a negocio.
+Soy Full Stack Engineer con más de 2 años de experiencia desarrollando aplicaciones web modernas, APIs y soluciones digitales orientadas a negocio.
 
-Trabajo principalmente con Angular, React, Node.js y TypeScript, participando en todo el ciclo de desarrollo: análisis, diseño, implementación, integración, despliegue y mantenimiento.
+Trabajo principalmente con Angular, React, Node.js y TypeScript, participando en todas las etapas del ciclo de desarrollo: análisis, diseño, implementación, integración, despliegue y mantenimiento.
 
-Mi enfoque está en construir software escalable, mantenible y alineado con buenas prácticas de arquitectura, rendimiento y calidad.
+Me enfoco en construir software escalable, mantenible y alineado con buenas prácticas de arquitectura, rendimiento y calidad.
 
 ---
 
@@ -71,51 +71,52 @@ Mi enfoque está en construir software escalable, mantenible y alineado con buen
 * Integración de Servicios
 * Bases de Datos Relacionales
 * Clean Code
-* Testing y Calidad de Software
 * Optimización de Rendimiento
-* Desarrollo de Interfaces Modernas
+* Testing y Calidad de Software
+* Diseño de Interfaces Modernas
+* Desarrollo de Soluciones Escalables
 
 ---
 
-# 📌 Proyectos Destacados
+# 🚀 Proyectos Destacados
 
-## 🌐 Plataforma Full Stack
+### 🌐 Plataforma Full Stack
 
-Aplicación web con autenticación, panel administrativo, gestión de usuarios e integración de APIs.
+Aplicación web con autenticación, gestión de usuarios, panel administrativo e integración de APIs externas.
 
-**Tecnologías:** Angular • Node.js • Express • SQL
+**Stack:** Angular • Node.js • Express • SQL
 
-🔗 Agregar enlace al repositorio
-
----
-
-## 🔐 Sistema de Autenticación
-
-Implementación de autenticación JWT, autorización por roles y protección de rutas.
-
-**Tecnologías:** Node.js • Express • JWT
-
-🔗 Agregar enlace al repositorio
+🔗 Repositorio: *Agregar enlace*
 
 ---
 
-## ⚠️ Gestión de Incidentes
+### 🔐 Sistema de Autenticación
 
-Sistema para seguimiento, clasificación y resolución de incidencias.
+Sistema de autenticación basado en JWT con autorización por roles y protección de rutas.
 
-**Tecnologías:** Angular • Node.js • MySQL
+**Stack:** Node.js • Express • JWT
 
-🔗 Agregar enlace al repositorio
+🔗 Repositorio: *Agregar enlace*
 
 ---
 
-## 🔌 Arquitectura REST API
+### ⚠️ Gestión de Incidentes
 
-Backend modular diseñado bajo principios de escalabilidad y separación de responsabilidades.
+Aplicación para seguimiento, clasificación y resolución de incidencias utilizando bases de datos relacionales.
 
-**Tecnologías:** Node.js • Express • SQL
+**Stack:** Angular • Node.js • MySQL
 
-🔗 Agregar enlace al repositorio
+🔗 Repositorio: *Agregar enlace*
+
+---
+
+### 🔌 REST API Modular
+
+Backend desarrollado bajo principios de escalabilidad, mantenibilidad y separación de responsabilidades.
+
+**Stack:** Node.js • Express • SQL
+
+🔗 Repositorio: *Agregar enlace*
 
 ---
 
@@ -133,29 +134,15 @@ Backend modular diseñado bajo principios de escalabilidad y separación de resp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guadalupemanquillan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guadalupemanquillan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Actividad de Desarrollo
+# 🎯 Objetivo Profesional
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guadalupemanquillan&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribuciones
-
-<div align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+Continuar participando en proyectos desafiantes donde pueda aportar experiencia técnica, seguir creciendo profesionalmente y contribuir al desarrollo de soluciones digitales de alto impacto.
 
 ---
 
@@ -187,6 +174,6 @@ Backend modular diseñado bajo principios de escalabilidad y separación de resp
 
 ### 🌎 Argentina 🇦🇷
 
-**Full Stack Engineer • Angular • React • Node.js**
+**Full Stack Engineer • Angular • React • Node.js • TypeScript**
 
 </div>
