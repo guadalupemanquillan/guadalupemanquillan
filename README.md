@@ -4,119 +4,122 @@
 
 <br>
 
-<h3>"La única forma de predecir tu futuro es creándolo."</h3>
+### *"La única forma de predecir tu futuro es creándolo."*
 
-<i>— Tony Robbins</i>
+**— Tony Robbins**
 
-<br><br>
+<br>
 
-# 👋 Hola, soy Rocío Guadalupe Manquillán
+# 👋 Hola, soy Rocío Guadalupe Manquillán 🇦🇷
 
-### Full Stack Developer | Angular • React • Node.js
+### Full Stack Engineer | Angular • React • Node.js • TypeScript
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Desarrollando+aplicaciones+web+modernas;Angular+%7C+React+%7C+TypeScript;Node.js+%7C+Express+%7C+SQL;Aprendiendo+y+creciendo+cada+día" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;Angular+Developer;React+Developer;Backend+with+Node.js;Building+Modern+Web+Applications" />
 
-<br><br>
+<br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
-<br><br>
-
-<a href="https://www.guadadev.com">
-<img src="https://img.shields.io/badge/Portfolio-GuadaDev-9D4EDD?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/manquillanrocio">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Conectar-0A66C2?style=for-the-badge"/>
 </a>
 
-<img src="https://img.shields.io/badge/Disponible%20para-Nuevas%20Oportunidades-00F2FE?style=for-the-badge"/>
+<a href="https://www.guadadev.com">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Ver_Sitio-7B2CBF?style=for-the-badge"/>
+</a>
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-0052D4?style=for-the-badge"/>
+<a href="mailto:trabajoguada236@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-Contactar-EA4335?style=for-the-badge"/>
+</a>
+
+<a href="https://wa.me/542805072908">
+<img src="https://img.shields.io/badge/💬_WhatsApp-Hablemos-25D366?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=guadalupemanquillan&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🧠 Sobre mí
+# 🚀 Sobre mí
 
-Soy desarrolladora Full Stack apasionada por la tecnología y el aprendizaje continuo.
+Soy Full Stack Engineer con más de 2 años de experiencia desarrollando aplicaciones web, APIs y soluciones digitales orientadas a negocio.
 
-Me gusta construir aplicaciones web funcionales, escalables y fáciles de mantener, combinando desarrollo frontend y backend para crear soluciones completas.
+Trabajo principalmente con Angular, React, Node.js y TypeScript, participando en todo el ciclo de desarrollo: análisis, diseño, implementación, integración, despliegue y mantenimiento.
 
-A lo largo de mi formación he trabajado con distintos lenguajes y tecnologías como Python, Java, JavaScript, TypeScript y C++, participando en proyectos académicos y personales enfocados en la resolución de problemas, programación orientada a objetos y desarrollo web.
-
-Actualmente continúo fortaleciendo mis conocimientos en Angular, React, Node.js, bases de datos relacionales y buenas prácticas de desarrollo.
+Mi enfoque está en construir software escalable, mantenible y alineado con buenas prácticas de arquitectura, rendimiento y calidad.
 
 ---
 
-# 🚀 Tecnologías
+# ⚡ Stack Tecnológico
 
 <div align="center">
 
-### 💻 Lenguajes
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css&theme=dark" />
-
-<br><br>
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=angular,react&theme=dark" />
-
-<br><br>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-<br><br>
-
-### 🗄️ Bases de Datos
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
-
-<br><br>
-
-### 🛠️ Herramientas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,typescript,javascript,python,java,mysql,sqlite,git,github,postman,vscode,figma&theme=dark" />
 
 </div>
 
 ---
 
-# 🎯 Áreas de interés
+# 💼 Especialidades
 
 * Desarrollo Full Stack
 * Arquitectura Frontend
+* Desarrollo Backend
 * APIs REST
-* Programación Orientada a Objetos
-* Bases de datos relacionales
-* Testing y calidad de software
-* Buenas prácticas de desarrollo
-* Arquitectura de software
+* Integración de Servicios
+* Bases de Datos Relacionales
 * Clean Code
+* Testing y Calidad de Software
+* Optimización de Rendimiento
+* Desarrollo de Interfaces Modernas
 
 ---
 
 # 📌 Proyectos Destacados
 
-### 🌐 Plataforma Portfolio Full Stack
+## 🌐 Plataforma Full Stack
 
-Aplicación web con autenticación, panel administrativo e integración de APIs.
+Aplicación web con autenticación, panel administrativo, gestión de usuarios e integración de APIs.
 
-### ⚠️ Sistema de Gestión de Incidentes
+**Tecnologías:** Angular • Node.js • Express • SQL
 
-Sistema para seguimiento y organización de incidentes utilizando bases de datos relacionales.
-
-### 🔐 Sistema de Autenticación
-
-Login seguro con JWT, gestión de usuarios y rutas protegidas.
-
-### 🔌 Arquitectura REST API
-
-Backend modular desarrollado con Node.js y Express.
+🔗 Agregar enlace al repositorio
 
 ---
 
-# 📊 Estadísticas GitHub
+## 🔐 Sistema de Autenticación
+
+Implementación de autenticación JWT, autorización por roles y protección de rutas.
+
+**Tecnologías:** Node.js • Express • JWT
+
+🔗 Agregar enlace al repositorio
+
+---
+
+## ⚠️ Gestión de Incidentes
+
+Sistema para seguimiento, clasificación y resolución de incidencias.
+
+**Tecnologías:** Angular • Node.js • MySQL
+
+🔗 Agregar enlace al repositorio
+
+---
+
+## 🔌 Arquitectura REST API
+
+Backend modular diseñado bajo principios de escalabilidad y separación de responsabilidades.
+
+**Tecnologías:** Node.js • Express • SQL
+
+🔗 Agregar enlace al repositorio
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -124,7 +127,11 @@ Backend modular desarrollado con Node.js y Express.
 
 <img height="170" src="https://streak-stats.demolab.com?user=guadalupemanquillan&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guadalupemanquillan&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -132,13 +139,23 @@ Backend modular desarrollado con Node.js y Express.
 
 ---
 
-# 🌱 Actualmente aprendiendo
+# 📈 Actividad de Desarrollo
 
-* Arquitectura de Software
-* Patrones de Diseño
-* Testing
-* Optimización de Aplicaciones Web
-* Buenas Prácticas de Desarrollo
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guadalupemanquillan&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribuciones
+
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
@@ -151,25 +168,25 @@ Backend modular desarrollado con Node.js y Express.
 </a>
 
 <a href="https://www.guadadev.com">
-<img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge"/>
 </a>
 
 <a href="mailto:trabajoguada236@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://wa.me/542805072908">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-# 🚀 Objetivo Profesional
-
-Continuar creciendo como desarrolladora Full Stack participando en proyectos reales, colaborando con equipos de desarrollo y construyendo soluciones que generen impacto y valor.
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
+### 🌎 Argentina 🇦🇷
 
-### Gracias por visitar mi perfil 👋
+**Full Stack Engineer • Angular • React • Node.js**
 
 </div>
