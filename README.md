@@ -19,19 +19,19 @@
 <br>
 
 <a href="https://www.linkedin.com/in/manquillanrocio">
-<img src="https://img.shields.io/badge/⬤%20LinkedIn-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
 </a>
 
 <a href="https://www.guadadev.com">
-<img src="https://img.shields.io/badge/⬤%20Portfolio-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=C084FC"/>
 </a>
 
 <a href="mailto:trabajoguada236@gmail.com">
-<img src="https://img.shields.io/badge/⬤%20Email-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C084FC"/>
 </a>
 
 <a href="https://wa.me/542805072908">
-<img src="https://img.shields.io/badge/⬤%20WhatsApp-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=C084FC"/>
 </a>
 
 <br><br>
@@ -207,19 +207,19 @@ WordPress • PHP • HTML • CSS • JavaScript
 <div align="center">
 
 <a href="https://www.linkedin.com/in/manquillanrocio">
-<img src="https://img.shields.io/badge/⬤%20LinkedIn-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
 </a>
 
 <a href="https://www.guadadev.com">
-<img src="https://img.shields.io/badge/⬤%20Portfolio-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=C084FC"/>
 </a>
 
 <a href="mailto:trabajoguada236@gmail.com">
-<img src="https://img.shields.io/badge/⬤%20Email-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C084FC"/>
 </a>
 
 <a href="https://wa.me/542805072908">
-<img src="https://img.shields.io/badge/⬤%20WhatsApp-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=C084FC"/>
 </a>
 
 </div>
