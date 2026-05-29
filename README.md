@@ -1,146 +1,150 @@
 <div align="center">
 
-  <!-- BANNER -->
-  <img src="https://raw.githubusercontent.com/guadalupemanquillan/guadalupemanquillan/main/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/guadalupemanquillan/guadalupemanquillan/main/banner.png" width="100%">
 
-  <br>
+# 👋 Hola, soy Rocío Guadalupe Manquillán
 
-  <h1>👋 Hola, soy Rocio Guadalupe Manquillan</h1>
+### Full Stack Developer | Angular • React • Node.js
 
-  <h3>Full Stack Developer | Angular • React • Node.js</h3>
-
-  <!-- “HACKER STYLE” TYPE EFFECT PERO LIMPIO -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Frontend+Engineering+%7C+Angular+%7C+React;Backend+APIs+%7C+Node.js+%7C+Express;Clean+architecture+%7C+Real-world+systems" />
-
-  <br>
-
-  <!-- BADGES -->
-  <a href="https://www.guadadev.com">
-    <img src="https://img.shields.io/badge/Portfolio-GuadaDev-9D4EDD?style=for-the-badge">
-  </a>
-
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00F2FE?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-0052D4?style=for-the-badge">
-
-</div>
-
----
-
-# 🧠 PROFILE SUMMARY
-
-Full Stack Developer focused on building **scalable, maintainable and production-oriented web applications**.
-
-I work across:
-- frontend architecture (Angular / React)
-- backend APIs (Node.js / Express)
-- relational databases
-- authentication systems
-
-My focus is not just building UI — but building **systems that scale and are maintainable**.
-
----
-
-# ⚙️ TECH STACK (ENGINEERING FOCUS)
-
-## 🎨 Frontend Engineering
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
-
----
-
-## ⚙️ Backend Engineering
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-</p>
-
----
-
-## 🛠️ Dev Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
-</p>
-
----
-
-# 🧩 ENGINEERING FOCUS AREAS
-
-- Frontend architecture (component-based systems)
-- API integration patterns
-- Authentication flows (JWT)
-- State management fundamentals
-- SQL-based persistence models
-- Clean code & maintainability
-
----
-
-# 📌 FEATURED PROJECTS
-
-### 🌐 Full Stack Portfolio Platform
-Authentication system + dashboards + API integration.
-
-### ⚠️ Incident Management System
-Tracking system with structured data flow and relational modeling.
-
-### 🔐 Authentication System
-Secure login system with JWT and protected routes.
-
-### 🔌 REST API Architecture
-Modular backend APIs using Node.js + Express.
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=guadalupemanquillan&theme=tokyonight&hide_border=true" width="380"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=guadalupemanquillan&show_icons=true&theme=tokyonight&hide_border=true" width="380"/>
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=700&lines=Desarrollando+aplicaciones+web+escalables;Angular+%7C+React+%7C+TypeScript;Node.js+%7C+Express+%7C+SQL;Código+limpio+y+arquitectura+escalable" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guadalupemanquillan&layout=compact&theme=tokyonight&hide_border=true">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+<br><br>
+
+<a href="https://www.guadadev.com">
+<img src="https://img.shields.io/badge/Portfolio-GuadaDev-9D4EDD?style=for-the-badge">
+</a>
+
+<img src="https://img.shields.io/badge/Disponible%20para-Nuevas%20Oportunidades-00F2FE?style=for-the-badge">
+<img src="https://img.shields.io/badge/Especialidad-Full%20Stack-0052D4?style=for-the-badge">
 
 </div>
 
 ---
 
-# 🌐 CONTACT
+# 🧠 Sobre mí
 
-- LinkedIn: https://www.linkedin.com/in/manquillanrocio  
-- Portfolio: https://www.guadadev.com  
-- Email: trabajoguada236@gmail.com  
+Soy desarrolladora Full Stack apasionada por crear aplicaciones web modernas, escalables y mantenibles.
 
----
+Me especializo en el desarrollo de interfaces dinámicas, integración de APIs y construcción de soluciones backend robustas utilizando tecnologías modernas del ecosistema JavaScript.
 
-# 🧠 CAREER GOAL
-
-Continue growing as a Full Stack Developer by contributing to real-world scalable systems and engineering-focused teams.
+Actualmente continúo fortaleciendo mis conocimientos en arquitectura de software, buenas prácticas de desarrollo y diseño de sistemas escalables.
 
 ---
 
-<!-- HACKER STYLE FOOTER (SUBTLE, NOT GAMING) -->
+# 🚀 Tecnologías
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css&theme=dark" />
+
+<br>
+
+### Backend & Bases de Datos
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite&theme=dark" />
+
+<br>
+
+### Herramientas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+
+</div>
+
+---
+
+# 🎯 Áreas de interés
+
+* Arquitectura Frontend
+* Desarrollo Full Stack
+* APIs REST
+* Sistemas de autenticación con JWT
+* Bases de datos relacionales
+* Clean Code
+* Diseño de software escalable
+* Experiencia de usuario (UX)
+
+---
+
+# 📌 Proyectos Destacados
+
+### 🌐 Plataforma Portfolio Full Stack
+
+Aplicación web con autenticación, panel administrativo e integración de APIs externas.
+
+### ⚠️ Sistema de Gestión de Incidentes
+
+Sistema para seguimiento y administración de incidentes utilizando modelado relacional de datos.
+
+### 🔐 Sistema de Autenticación
+
+Implementación de autenticación basada en JWT, control de acceso y rutas protegidas.
+
+### 🔌 Arquitectura REST API
+
+Backend modular desarrollado con Node.js y Express siguiendo principios de escalabilidad y mantenibilidad.
+
+---
+
+# 📊 Estadísticas GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=guadalupemanquillan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=guadalupemanquillan&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guadalupemanquillan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Actualmente aprendiendo
+
+* Patrones de diseño
+* Arquitectura de aplicaciones web
+* Optimización de rendimiento
+* Testing y calidad de software
+
+---
+
+# 📫 Contacto
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/manquillanrocio">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.guadadev.com">
+<img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge"/>
+</a>
+
+<a href="mailto:trabajoguada236@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 Objetivo Profesional
+
+Seguir creciendo como desarrolladora Full Stack participando en proyectos de impacto real, colaborando con equipos de alto rendimiento y construyendo software que aporte valor a las personas y organizaciones.
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
+
+### Gracias por visitar mi perfil 👋
 
 </div>
