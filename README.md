@@ -131,7 +131,7 @@ Actualmente profundizando y experimentando en:
   <br>
   
   <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE" alt="Top Langs" width="500px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE" alt="Top Langs">
 </div>
 
 ---
