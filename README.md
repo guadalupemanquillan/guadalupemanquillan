@@ -10,7 +10,7 @@
 
 <br>
 
-# 👋 Hola, soy Rocío Guadalupe Manquillán una Junior con experiencia real y ganas de seguir aprendiendo en el mundo tech 🇦🇷
+# 👋 Hola, soy Guada una Junior con experiencia real y ganas de seguir aprendiendo en el mundo tech 🇦🇷
 
 ### Full Stack Engineer | Software Developer
 
