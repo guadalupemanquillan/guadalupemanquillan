@@ -10,15 +10,13 @@
 
 <br>
 
-# 👋 Hola, soy Guada una Junior con experiencia real y ganas de seguir aprendiendo en el mundo tech 🇦🇷
+# 👋 Hola, soy Rocío Guadalupe Manquillan 🇦🇷
 
-### Full Stack Engineer | Software Developer
+### Senior Full Stack Engineer | Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Angular+%7C+React+%7C+Node.js;PHP+%7C+Laravel+%7C+Java;CRM+%26+Business+Systems;Remote+LATAM" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=C084FC&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Engineer;Angular+%7C+React+%7C+Node.js;TypeScript+%7C+Java+%7C+PHP;CRM+%26+Business+Systems;Cloud+%26+Backend+Development;Remote+LATAM" />
 
 <br>
-
-<!-- Botones minimalistas y uniformes -->
 
 <a href="https://www.linkedin.com/in/manquillanrocio">
 <img src="https://img.shields.io/badge/PROFESSIONAL_PROFILE-0D1117?style=for-the-badge"/>
@@ -42,13 +40,15 @@
 
 # 🚀 Sobre mí
 
-Soy Full Stack Engineer con más de 2 años de experiencia desarrollando aplicaciones web, sistemas empresariales, CRM corporativos, automatizaciones y plataformas orientadas a negocio.
+Soy Full Stack Engineer con más de 8 años de experiencia profesional en tecnología, sistemas y transformación digital.
 
-He trabajado en proyectos utilizando Angular, React, Node.js, PHP, Laravel, Java, Spring Boot y tecnologías backend modernas, colaborando tanto en productos internos como en soluciones para clientes reales.
+He participado en proyectos de desarrollo de software, CRM corporativos, automatización de procesos, plataformas empresariales e integración de servicios, colaborando con equipos multidisciplinarios para construir soluciones escalables y orientadas a resultados.
 
-Actualmente curso Ingeniería en Sistemas, complementando la experiencia práctica adquirida en entornos empresariales y proyectos de desarrollo de software.
+He trabajado con Angular, React, Node.js, TypeScript, PHP, Laravel, Java, Spring Boot, SQL y MongoDB, participando en el desarrollo, mantenimiento y evolución de aplicaciones utilizadas por clientes y equipos internos.
 
-Mi enfoque está en construir software escalable, mantenible y alineado con buenas prácticas de arquitectura, rendimiento y calidad.
+Actualmente continúo mi formación universitaria en Ingeniería en Informática mientras profundizo mis conocimientos en arquitectura de software, cloud computing, automatización y desarrollo backend.
+
+Mi enfoque está en construir productos mantenibles, eficientes y alineados con objetivos de negocio.
 
 ---
 
@@ -56,9 +56,29 @@ Mi enfoque está en construir software escalable, mantenible y alineado con buen
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,typescript,javascript,php,laravel,java,spring,mysql,mongodb,git,github,postman,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,typescript,javascript,php,laravel,java,spring,mysql,mongodb,postgres,docker,git,github,postman,vscode,figma&theme=dark"/>
 
 </div>
+
+### Frontend
+
+Angular • React • TypeScript • JavaScript • HTML5 • CSS3 • Bootstrap
+
+### Backend
+
+Node.js • Express.js • PHP • Laravel • Java • Spring Boot
+
+### Bases de Datos
+
+MySQL • SQL Server • MongoDB • PostgreSQL
+
+### APIs & Integraciones
+
+REST APIs • JSON • Postman • Integración de Servicios
+
+### Cloud & DevOps
+
+Git • GitHub • Docker • CI/CD • AWS (Learning)
 
 ---
 
@@ -66,24 +86,26 @@ Mi enfoque está en construir software escalable, mantenible y alineado con buen
 
 ### 🏢 Nexus Software / Tramitex
 
-**Full Stack Developer (Contractor)**
+**Full Stack Engineer**
 
-📅 2024 — Febrero 2026
+📅 2024 — 2026
 
-Participación en el desarrollo y mantenimiento del CRM corporativo utilizado diariamente por equipos internos para la gestión de clientes, procesos operativos y seguimiento de casos.
+Participación en el desarrollo, mantenimiento y evolución del CRM corporativo utilizado para la gestión de clientes, procesos operativos y seguimiento de casos.
 
 #### Responsabilidades
 
 * Desarrollo de nuevas funcionalidades
+* Integración de APIs REST
+* Optimización de consultas SQL
+* Corrección de incidencias productivas
 * Mantenimiento evolutivo del sistema
-* Integración con APIs REST
-* Optimización de procesos internos
-* Corrección de incidencias
-* Soporte técnico sobre módulos existentes
+* Automatización de procesos internos
+* Soporte técnico funcional
+* Colaboración con equipos multidisciplinarios
 
 #### Tecnologías
 
-Angular • JavaScript • APIs REST • SQL
+Angular • JavaScript • SQL • REST APIs
 
 🌎 https://tramitex.es/
 
@@ -116,21 +138,20 @@ React • Vite • Spring Boot • MongoDB
 
 ### ⚠️ OpsCore — Incident Management System
 
-Sistema de gestión de incidentes diseñado para digitalizar la operación de plantas industriales y mejorar la trazabilidad de eventos críticos.
+Sistema de gestión de incidentes diseñado para digitalizar operaciones industriales y optimizar la trazabilidad de eventos críticos.
 
-#### Funcionalidades principales
+#### Funcionalidades
 
-* Registro de incidentes desde dispositivos móviles
-* Asignación y seguimiento de responsables
-* Dashboard de monitoreo en tiempo real
-* Gestión de estados (Abierto, En Proceso, Cerrado)
-* Métricas de tiempo de respuesta y resolución
+* Registro y seguimiento de incidentes
+* Dashboard en tiempo real
+* Gestión de responsables
+* Métricas de resolución
+* Clasificación por criticidad
 * Análisis de causas raíz
-* Clasificación por tipo de incidente y área
 
-#### Impacto
+#### Tecnologías
 
-Mejora de la eficiencia operativa mediante la digitalización de procesos, reducción de tiempos de respuesta y generación de información para la toma de decisiones.
+React • Node.js • MongoDB • APIs REST
 
 #### Recursos
 
@@ -140,7 +161,7 @@ https://github.com/No-Country-simulation/S04-26-Equipo-10-Web-App-Development
 📋 Trello
 https://trello.com/b/YQ8WFXF9/opscore
 
-🧩 Diagrama de Flujo
+🧩 Miro
 https://miro.com/app/board/uXjVHcd-HMM=/
 
 📚 Documentación
@@ -150,7 +171,7 @@ https://drive.google.com/drive/folders/1IraqJzhFN0AKqWFxUqHAQvU5h_iMttRb
 
 ### 🌐 El Índice
 
-Portal web orientado a gestión de contenido, automatización y administración de información.
+Portal web orientado a gestión de contenido y administración de información.
 
 #### Tecnologías
 
@@ -162,11 +183,11 @@ Laravel • PHP • MySQL
 
 ### 🌐 Jorge Duarte
 
-Sitio corporativo desarrollado sobre WordPress con personalización de componentes y optimización de contenido.
+Sitio corporativo desarrollado en WordPress con personalización de componentes.
 
 #### Tecnologías
 
-WordPress • PHP • HTML • CSS • JavaScript
+WordPress • PHP • JavaScript
 
 🌎 https://jorgeduarteactitud.com.ar/
 
@@ -174,17 +195,32 @@ WordPress • PHP • HTML • CSS • JavaScript
 
 # 💡 Áreas de Especialización
 
-* Desarrollo Full Stack
-* Arquitectura Frontend
-* Desarrollo Backend
-* APIs REST
-* Integración de Servicios
-* CRM y Sistemas Empresariales
-* Automatización de Procesos
-* Bases de Datos Relacionales
+* Full Stack Development
+* Backend Development
+* Node.js Development
+* Angular Development
+* React Development
+* API Design & Integration
+* CRM Platforms
+* Enterprise Software
+* Process Automation
+* Database Design
+* Software Architecture
 * Clean Code
-* Optimización de Rendimiento
-* Testing y Calidad de Software
+* Performance Optimization
+* Agile Methodologies
+
+---
+
+# 🎯 Actualmente enfocado en
+
+* Arquitectura de Software
+* Node.js & TypeScript
+* Cloud Computing (AWS)
+* Desarrollo Backend
+* Automatización de Procesos
+* Sistemas Empresariales
+* Soluciones Fintech
 
 ---
 
@@ -226,7 +262,7 @@ WordPress • PHP • HTML • CSS • JavaScript
 
 ### 🌎 Argentina 🇦🇷
 
-**Full Stack Engineer • Software Developer**
+**Senior Full Stack Engineer • Software Developer**
 
 </div>
 
