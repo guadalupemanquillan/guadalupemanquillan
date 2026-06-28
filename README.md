@@ -40,7 +40,7 @@
 
 # 🚀 Sobre mí
 
-Soy Full Stack Engineer con más de 8 años de experiencia profesional en tecnología, sistemas y transformación digital.
+Soy Full Stack Engineer con más de 3 años de experiencia profesional en tecnología, sistemas y transformación digital.
 
 He participado en proyectos de desarrollo de software, CRM corporativos, automatización de procesos, plataformas empresariales e integración de servicios, colaborando con equipos multidisciplinarios para construir soluciones escalables y orientadas a resultados.
 
